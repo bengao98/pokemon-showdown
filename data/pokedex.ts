@@ -17963,7 +17963,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Iron Valiant",
 		types: ["Fairy", "Fighting"],
 		gender: "N",
-		baseStats: {hp: 74, atk: 130, def: 90, spa: 120, spd: 60, spe: 116},
+		baseStats: {hp: 74, atk: 160, def: 100, spa: 150, spd: 90, spe: 146},
 		abilities: {0: "Quark Drive"},
 		heightm: 1.4,
 		weightkg: 35,
